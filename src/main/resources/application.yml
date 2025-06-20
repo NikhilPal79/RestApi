@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+
+spring:
+  application:
+    name: REST_API
+  datasource:
+    url: jdbc:h2:./studentDb
+    username: sa
+    password:
+
+  h2:
+    console:
+      enabled: true
+
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: validate
+
+    show-sql: true
+

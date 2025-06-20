@@ -1,0 +1,27 @@
+2025-06-20 12:51:00.828392-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from student s1_0 where s1_0.id=? [42104-232]
+2025-06-20 12:59:18.872948-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:10:13.273087-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:12:19.511561-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:16:28.798330-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:20:07.562871-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:24:44.397394-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:27:57.370769-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
+2025-06-20 13:29:25.374289-04:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STU" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.email,s1_0.first_name,s1_0.last_name,s1_0.phone_number from stu s1_0 where s1_0.id=? [42104-232]
